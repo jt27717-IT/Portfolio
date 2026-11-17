@@ -27,7 +27,7 @@ header {
     grid-area: header;
     background-color: #b2a5d8;
     color: #ffffff;
-    background-image: url("images/logo.PNG");
+    background-image: url("Images/logo.PNG");
     background-repeat: no-repeat;
     background-position: left;
     background-size: 100px;
