@@ -93,19 +93,19 @@ footer {
 }
 
 #homeimg {
-    background-image: url("images/home.PNG");
+    background-image: url("Images/home.PNG");
 }
 
 #aboutimg {
-    background-image: url("images/about.jpg");
+    background-image: url("Images/about.jpg");
 }
 
 #careerimg {
-    background-image: url("images/career.JPG");
+    background-image: url("Images/career.JPG");
 }
 
 #hobbyimg {
-    background-image: url("images/hobby.png");
+    background-image: url("Images/hobby.png");
 }
 
 img {
